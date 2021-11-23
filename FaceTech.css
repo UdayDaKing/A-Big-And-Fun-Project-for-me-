@@ -1,0 +1,54 @@
+#Heading{
+    font-family: Arial;
+    font-size: 60;
+    font-style: oblique;
+    font-weight: lighter;
+    color: black;
+    position: relative;
+    top: 220px;
+    right: 160px;
+}
+#Heading2{
+    font-family: Arial;
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: 90;
+    color: darkcyan;
+    position: relative;
+    top: 160px;
+    right: -10px;
+}
+#Heading3{
+    font-family: Arial;
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: 90;
+    color: cyan;
+    position: relative;
+    top: 0px;
+    right: -290px;
+}
+#About{
+    position: absolute;
+    top: 600px;
+    right: 100px;
+}
+#About_Us_Heading{
+    font-family: Arial;
+    font-weight: lighter;
+    font-style: oblique;
+    color:hotpink;
+    font-size: 60;
+}
+#About_Us_P{
+    font-family: Arial;
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: 30;
+}
+body{
+    background-color: lightblue;
+}
+#Robot_Image{
+    top: 100px;
+}
